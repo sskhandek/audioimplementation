@@ -56,8 +56,8 @@ def main(infile):
             time.sleep(2)
     print(songs)
 
-    print(infile+'.json')
-    with open(infile+'.json', 'w') as outfile:
+    print(infile+'_v2.json')
+    with open(infile+'_v2.json', 'w') as outfile:
         json.dump(songs, outfile, indent=4, separators=(',', ': '))
 
 main(sys.argv[1])
