@@ -8,6 +8,7 @@
 
 .axis text {
   font: 10px sans-serif;
+  display: none;
 }
 
 .axis path,
@@ -17,9 +18,8 @@
   shape-rendering: crispEdges;
 }
 
-
 .bar:hover {
-  fill: orangered ;
+  fill: #C599C9;
 }
 
 .x.axis path {

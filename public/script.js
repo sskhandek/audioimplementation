@@ -47,7 +47,10 @@ var tip = d3.tip()
   .attr('class', 'd3-tip')
   .offset([-10, 0])
   .html(function(d) {
-    return "<strong>Value:</strong> <span style='color:red'>" + d.song + ", " + d.sentiment + "</span>";
+      if (d.sentiment > 0)
+        return "<strong>Song: &nbsp'</strong>" + d.song + "</span>" + "<strong>   <br> Sentiment:</strong> <span style='color:green'>" + d.sentiment + "</span>";
+      else
+        return "<strong>Song: </strong>" + d.song + "</span>" + "<strong>  <br>  Sentiment:</strong> <span style='color:red'>" + d.sentiment + "</span>";
   })
 var showgraphs = function () {
   // MONEY
@@ -67,7 +70,6 @@ var showgraphs = function () {
     .enter().append("rect")
       .attr("class", function(d) { return "bar bar--" + (d.genre == 'country' ? "country" : "rap"); })
       .attr("x", function(d) { return x(Math.min(0, d.sentiment)); })
-      // .attr("y", function(d) { return y(d.name); })
       .attr("y", function(d) { return y(d.song); })
       .attr("width", function(d) { return Math.abs(x(d.sentiment) - x(0)); })
       .attr("height", y.rangeBand())
@@ -157,7 +159,6 @@ var showgraphs = function () {
     .enter().append("rect")
       .attr("class", function(d) { return "bar bar--" + (d.genre == 'country' ? "country" : "rap"); })
       .attr("x", function(d) { return x(Math.min(0, d.sentiment)); })
-      // .attr("y", function(d) { return y(d.name); })
       .attr("y", function(d) { return y(d.song); })
       .attr("width", function(d) { return Math.abs(x(d.sentiment) - x(0)); })
       .attr("height", y.rangeBand())
