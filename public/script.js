@@ -48,9 +48,9 @@ var tip = d3.tip()
   .offset([-10, 0])
   .html(function(d) {
       if (d.sentiment > 0)
-        return "<strong>Song: &nbsp'</strong>" + d.song + "</span>" + "<strong>   <br> Sentiment:</strong> <span style='color:green'>" + d.sentiment + "</span>";
+        return "<strong>Song: &nbsp</strong>" + d.song + "</span>" + "<strong>   <br> Sentiment:</strong> <span style='color:green'>" + d.sentiment + "</span>";
       else
-        return "<strong>Song: </strong>" + d.song + "</span>" + "<strong>  <br>  Sentiment:</strong> <span style='color:red'>" + d.sentiment + "</span>";
+        return  "<strong>Song: &nbsp</strong>" + d.song + "</span>" + "<strong>  <br>  Sentiment:</strong> <span style='color:red'>" + d.sentiment + "</span>";
   })
 var showgraphs = function () {
   // MONEY
