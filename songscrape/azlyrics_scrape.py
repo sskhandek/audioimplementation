@@ -50,7 +50,6 @@ def main(infile):
             song = line.rstrip()
             print(song)
             artist = next(f).rstrip()
-            # lyrics = 'lol'
             lyrics = scrape(artist, song)
             if lyrics != '':
                 songs.append({'song':song, 'artist':artist, 'lyrics':lyrics})
