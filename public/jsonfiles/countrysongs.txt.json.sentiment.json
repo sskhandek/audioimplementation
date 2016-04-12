@@ -1,0 +1,476 @@
+[
+    {
+	"genre": "country",
+        "song": "myfrontporchlookinin",
+        "sentiment": 0.9912,
+        "lyrics": " Ooh yea woo, yeah, oh yea  The only ground I ever owned was sticking to my shoes Now I look at my front porch at this panoramic view I could sit and watch the fields fill up with rays of golden sun Or watch the moon lay on the fences like that's where it was hung  My blessings are in front of me it's not about the land I'll never beat the view from my front porch looking in  <i>[Chorus:]</i> There's a carrot top who can barely walk With a sippy cup of milk A little blue-eyed blonde With shoes on wrong 'Cause she likes to dress herself And the most beautiful girl Holding both of them Yeah, the view I love the most is my front porch looking in  Yeah, yeah  I've travelled here and everywhere Following my job I've seen the paintings from the air Brushed by the hand of god The mountains and the canyons reach from sea to shining sea But I can't wait to get back home to the one he made for me  'Cause anywhere I'll ever go and everywhere I've been Nothin' takes my breath away like my front porch looking in  <i>[Chorus]</i>  I see what beautiful is about When I'm looking in Not when I'm looking out  <i>[Chorus]</i>  There's a carrot top that can barely walk (from my front porch looking in) A little blue-eyed blonde With shoes on wrong (from my front porch looking in) And the most beautiful girl Holding both of them Ooh, yeah ",
+        "artist": "lonestar"
+    },
+    {
+	"genre": "country",
+        "song": "Blessed",
+        "sentiment": 0.9905,
+        "lyrics": " I get kissed by the sun Each morning Put my feet on a hardwood floor I get to hear my children laughing Down the hall through the Bedroom door Sometimes I sit on my Front porch swing Just soaking up the day I think to myself, I think to myself This world is a beautiful place  <i>[Chorus]</i> I have been blessed And I feel like I've found my way I thank God for all I've been given At the end of every day I have been blessed With so much more than I deserve To be here with the ones That love me To love them so much it hurts I have been blessed  Across a crowded room I know you know what I'm thinking By the way I look at you And when we're lying in the quiet And no words have to be said I think to myself, I think to myself This love is a beautiful gift  <i>[Chorus]</i>  When I'm singing my kids to sleep When I feel you holding me  I know  <i>[Chorus]</i> ",
+        "artist": "MARTINA MCBRIDE",
+        "category": "family"
+    },
+    {
+	"genre": "country",
+        "song": "That's What I Call Home",
+        "sentiment": 0.9608,
+        "lyrics": " There's a house that's a little run down This city ain't never found It's miles and miles from a paved road That's where we grew up Seven children raised on love When life gets hard that's where we go  <i>[chorus]</i> Daddy don't know a stranger A handshake and he's your friend Oh and Mama she's an angel She'll hold you tight till the heartache ends Just a place made of nails and wood But it's the love that makes you feel so good That's what I call That's what I call home  Daddy built it with his own two hands Overlooking his grandpa's land Now through the years a lot has changed But driving up this gravel road I get that feeling in my soul I thank God some things still remain  <i>[Repeat chorus]</i>  Once I get myself through that old screen door The world can't touch me anymore  <i>[Repeat chorus]</i>  That's what I call home That's what I call home ",
+        "artist": "BLAKE SHELTON",
+        "category": "family"
+    },
+    {
+	"genre": "country",
+        "song": "These Four Walls",
+        "sentiment": -0.7117,
+        "lyrics": " Wasn't that long ago I was skipping school with a lunchbox Pigtails in my hair Where did the time go One minute I'm playing in the sandbox How'd I get to here from there Making lunches and folding clothes Is not the most glamourous life I know But I've got so much more than most  <i>[Chorus]</i> I'm not famous but my kids think I'm a star Im not rich but I've made a million memories so far I may not be a model  But My man thinks I could be I may not be from royalty But in these four walls I'm the queen  I had it all planned  First I'd make it big in Nashville Then take hollywood by storm But it was in God's hands There were three little lives that would need me To one day be their mom I wouldn't trade it for anything Those movie stars don't have everything I know I'm right where I wanna be  <i>[Repeat Chorus]</i>  I had to let it go, but I have no regrets I would have never known this kind of happiness  <i>[Repeat Chorus]</i> ",
+        "artist": "SARA EVANS",
+        "category": "family"
+    },
+    {
+	"genre": "country",
+        "song": "Just Another Day In Paradise",
+        "sentiment": 0.9988,
+        "lyrics": " The kids screaming, phone ringing Dog barking at the mailman bringing That stack of bills - overdue Good morning baby, how are you? Got a half hour, quick shower Take a drink of milk but the milk's gone sour My funny face makes you laugh Twist the top on and I put it back There goes the washing machine Baby, don't kick it. I promise I'll fix it Long about a million other things  Well, it's ok. It's so nice It's just another day in paradise Well, there's no place that I'd rather be Well, it's two hearts And one dream I wouldn't trade it for anything And I ask the lord every night For just another day in paradise  Friday, you're late Guess we'll never make our dinner date At the restaurant you start to cry Baby, we'll just improvise Well, plan B looks like Dominoes' pizza in the candle light Then we'll tippy toe to our room Make a little love that's overdue But somebody had a bad dream Mama and daddy Can meand my teddy Come in to sleep in between?  Yeah it's ok. It's so nice. It's just another day in paradise. Well, there's no place that I'd rather be Well, it's two hearts And one dream I wouldn't trade it for anything And I ask the lord every night For just another day in paradise  Well, it's ok. It's so nice. It's just another day in paradise. Well, there's no place that I'd rather be Two hearts And one dream I wouldn't trade it for anything And I ask the lord every night For just another day in paradise  For just another day in paradise Well, it's the kids screaming. The phone ringing Just another day Well, it's Friday. You're late Oh yeah, it's just another day in paradise ",
+        "artist": "PHIL VASSAR",
+        "category": "family"
+    },
+    {
+	"genre": "country",
+        "song": "allmyfriendssay",
+        "sentiment": 0.9956,
+        "lyrics": " I got smoke in my hair My clothes thrown everywhere Woke up in my rocking chair Holding a beer in my hand Sporting a neon tan  My stereo cranked up I can't find my truck How'd I get home from the club Ain't got a clue what went down So I started calling around  And all my friends say I started shooting doubles When you walked in All my friends say I went a little crazy Seeing you with him You know I don't remember a thing But they say I sure was raising some cain I was a rock star, party hard, Getting over you comeback kid Yay I must have did What all my friends say Yeah, Yeah, Yeah  I found my billfold I cried oh no no Good time Charlie got me now I'm broke But it was worth acting like a fool Yeah girl I must have really showed you  Cause all my friends say I started shooting doubles When you walked in All my friends say I went a little crazy Seeing you with him You know I don't remember a thing But they say I sure was raising some cain I was a rock star, party hard, Getting over you comeback kid Yay I must have did What all my friends say Yeah, Yeah, Yeah  I was Elvis rocking on the bar Working the crowd pouring out my heart  And all my friends say I started shooting doubles When you walked in All my friends say I went a little crazy Seeing you with him You know I don't remember a thing But they say I sure was raising some cain I was a rock star, party hard, Getting over you comeback kid Yay I must have did What all my friends say Yeah, Yeah, Yeah ",
+        "artist": "lukebryan",
+        "category": "drugs"
+    },
+    {
+	"genre": "country",
+        "song": "whiskeybentandhellbound",
+        "sentiment": -0.7709,
+        "lyrics": " I've got a good woman at home Who thinks I do no wrong But sometimes, Lord, she just ain't always around And you know that's when I fall Now I can't help myself at all And I get whiskey bent and hell bound  Play me some songs about a ramblin man Put a cold one in my hand Cause you know I love to hear those guitar sounds Don't you play, I'm So Lonesome I Could Cry Cause I'll get all balled up inside And I'll get whiskey bent and hell bound  Sure enough about closin time About stoned out of my mind And I end up with some honkytonk special I found Just as sure as the mornin sun comes Thinkin of my sweet girl at home And I need to get whiskey bent and hell bound  Play me the songs about ramblin man Put old Jim Beam in my hand Cause you know I still love to get drunk And hear country sounds But don't you play, Your Cheatin Heart Cause that'll tear me all apart I'll get whiskey bent and hell bound  Yeah, old Hank's songs Always make me feel low down ",
+        "artist": "hankwilliamsjr",
+        "category": "drugs"
+    },
+    {
+	"genre": "country",
+        "song": "Misery and Gin",
+        "sentiment": -0.8472,
+        "lyrics": " Memories and drinks don't mix too well And jukebox records don't play those wedding bells Looking at the world through the bottom of a glass All I see is a man who's fadin' fast.  Tonight I need that woman again What I'd give for my baby to just walk in Sit down beside me and say it's alright Take me home and make sweet love to me tonight.  But here I am again mixing misery and gin Sittin' with all my friends and talkin' to myself I look like I'm havin' a good time but any fool can tell That this honky tonk heaven really makes you feel like hell.  I light a lonely woman's cigarette We start talkin' bout what we want to forget Her life story and mine are the same We both lost someone and only have ourselves to blame But here I am again... ",
+        "artist": "Merle Haggard",
+        "category": "drugs"
+    },
+    {
+	"genre": "country",
+        "song": "Bartender",
+        "sentiment": 0.9337,
+        "lyrics": " 8 o'clock on Friday night I'm still at home All my girls just keep on blowing up my phone Saying come on he ain't worth the pain Do what you gotta do to forget his name Now there's only one thing left for me to do Slip on my favorite dress and sky-high leather boots Check the mirror one last time And kiss the past goodbye  <i>[Chorus:]</i> What I'm really needing now Is a double shot of Crown Chase that disco ball around Till I don't remember Go until they cut me off Wanna get a little lost In the noise In the lights Hey bartender pour 'em hot tonight Till the party and music and the truth collide Bring it till his memory fades away Hey bartender  Tonight I'll let a stranger pull me on the floor Spin me round and let 'em buy a couple more But before it goes too far I'll let him down easy Cause tonight is all about Dancing with my girls to the DJ Put that song on replay  <i>[Chorus:]</i> What I'm really needing now Is a double shot of Crown Chase that disco ball around Till I don't remember Go until they cut me off Wanna get a little lost In the noise In the lights Hey bartender pour 'em hot tonight Till the party and music and the truth collide Bring it till his memory fades away Hey bartender  Feeling that buzz I'm ready to rock Ain't no way I'm gonna tell you to stop So pour that thing up to the top I'm coming in hot Hey Bartender  <i>[Chorus:]</i> Oh what I'm really needing now Is a double shot of Crown Chase that disco ball around Till I don't remember Go until they cut me off Wanna get a little lost In the noise In the lights Hey bartender pour 'em hot tonight Till the party and music and the truth collide Bring it till his memory fades away Hey bartender Hey bartender ",
+        "artist": "Lady Antebellum",
+        "category": "drugs"
+    },
+    {
+	"genre": "country",
+        "song": "The More I Drink",
+        "sentiment": 0.9843,
+        "lyrics": " He was sittin' at the bar, sippin' on a regular Coke We were drinkin' and smokin' and makin' him the butt of our jokes We all said, &quot;Man, what happened to you? Why can't you just have a few?&quot; He said, &quot;I would if I could, but it's probably best that I don't.&quot;  <i>[Chorus]</i> Cause the more I drink, the more I drink Yeah, I'm the world's greatest lover and a dancin' machine I get loud, I get proud....and it gets worse Well if I have one, I'll have thirteen Naw, there ain't no in-between Cause, the more I drink, the more I drink.  A couple of cold ones, and somebody hands me a shot. Hell, even buck-tooth and bow-legged women start lookin' hot And pretty soon I'm bummin' cigarettes and sweet talkin' some big brunette Yeah, once I get on a roll, ain't no tellin' where I'll stop  <i>[Chorus]</i>  Yep-yep Humm, that's what I'm talking about  Man, if I have one, I'll have thirteen And they can't get me off the kareoke machine, The more I drink...the more I drink. Yeah, the more I drink, the more I drink, the more I drink. ",
+        "artist": "Blake Shelton",
+        "category": "drugs"
+    },
+    {
+	"genre": "country",
+        "song": "mean",
+        "sentiment": -0.9616,
+        "lyrics": " You, with your words like knives And swords and weapons that you use against me You have knocked me off my feet again Got me feeling like a nothing You, with your voice like nails on a chalkboard Calling me out when I'm wounded You, picking on the weaker man  Well you can take me down with just one single blow But you don't know, what you don't know...  Someday I'll be living in a big ole city And all you're ever gonna be is mean Someday I'll be big enough so you can't hit me And all you're ever gonna be is mean Why you gotta be so mean?  You, with your switching sides And your wildfire lies and your humiliation You have pointed out my flaws again As if I don't already see them I walk with my head down Trying to block you out 'cause I'll never impress you I just wanna feel okay again  I bet you got pushed around Somebody made you cold But the cycle ends right now 'Cause you can't lead me down that road And you don't know, what you don't know...  Someday I'll be living in a big ole city And all you're ever gonna be is mean Someday I'll be big enough so you can't hit me And all you're ever gonna be is mean Why you gotta be so mean?  And I can see you years from now in a bar Talking over a football game With that same big loud opinion But nobody's listening Washed up and ranting about the same old bitter things Drunk and grumbling on about how I can't sing But all you are is mean  All you are is mean And a liar, and pathetic, and alone in life And mean, and mean, and mean, and mean  But someday I'll be living in a big ole city And all you're ever gonna be is mean, yeah Someday I'll be big enough so you can't hit me And all you're ever gonna be is mean Why you gotta be so?...  Someday I'll be living in a big ole city (Why you gotta be so?...) And all you're ever gonna be is mean (Why you gotta be so?...) Someday I'll be big enough so you can't hit me (Why you gotta be so?...) And all you're ever gonna be is mean Why you gotta be so mean? ",
+        "artist": "taylor swift",
+        "category": "money"
+    },
+    {
+	"genre": "country",
+        "song": "Celebrity",
+        "sentiment": 0.8511,
+        "lyrics": " Someday I'm gonna be famous, do I have talent, well no These days you don't really need it thanks to reality shows Can't wait to date a supermodel, can't wait to sue my dad Can't wait to wreck a Ferrari on my way to rehab  <i>[1st Chorus]</i> 'Cause when you're a celebrity It's adios reality You can act just like a fool People think you're cool Just 'cause you're on TV I can throw a major fit When my latte isn't just how I like it When they say I've gone insane I'll blame it on the fame And the pressures that go with Being a celebrity  I'll get to cry to Barbara Walters when things don't go my way And I'll get community service no matter which law I break I'll make the supermarket tabloids, they'll write some awful stuff But the more they run my name down the more my price goes up  <i>[2nd Chorus]</i> 'Cause when you're a celebrity It's adios reality No matter what you do  People think you're cool Just 'cause you're on TV I can fall in and out of love Have marriages that barely last a month When they go down the drain I'll blame it on the fame And say it's just so tough Being a celebrity  <i>[Bridge]</i> So let's hitch up the wagons and head out west To the land of the fun and the sun We'll be real world bachelor jackass millionaires Hey hey, Hollywood, here we come  <i>[3rd Chorus]</i> 'Cause when you're a celebrity It's adios reality No matter what you do People think you're cool Just 'cause you're on TV Being a celebrity Yeah celebrity ",
+        "artist": "Brad Paisley",
+        "category": "money"
+    },
+    {
+	"genre": "country",
+        "song": "sixteen tons",
+        "sentiment": -0.6571,
+        "lyrics": " Some people say a man is made outta mud A poor man's made outta muscle and blood Muscle and blood and skin and bones A mind that's a-weak and a back that's strong  You load sixteen tons, what do you get Another day older and deeper in debt Saint Peter don't you call me 'cause I can't go I owe my soul to the company store  I was born one mornin' when the sun didn't shine I picked up my shovel and I walked to the mine I loaded sixteen tons of number nine coal And the straw boss said &quot;Well, a-bless my soul&quot;  You load sixteen tons, what do you get Another day older and deeper in debt Saint Peter don't you call me 'cause I can't go I owe my soul to the company store  I was born one mornin', it was drizzlin' rain Fightin' and trouble are my middle name I was raised in the canebrake by an ol' mama lion Cain't no-a high-toned woman make me walk the line  You load sixteen tons, what do you get Another day older and deeper in debt Saint Peter don't you call me 'cause I can't go I owe my soul to the company store  If you see me comin', better step aside A lotta men didn't, a lotta men died One fist of iron, the other of steel If the right one don't a-get you Then the left one will  You load sixteen tons, what do you get Another day older and deeper in debt Saint Peter don't you call me 'cause I can't go I owe my soul to the company store ",
+        "artist": "johnny cash",
+        "category": "money"
+    },
+    {
+	"genre": "country",
+        "song": "famousinasmalltown",
+        "sentiment": 0.1443,
+        "lyrics": " They say life is so much sweeter Through the telephoto lens of fame Around here you get just as much attention Cheerin' at the high school football game  I dreamed of going to Nashville Put my money down and placed my bet But I just got the first buck of the season I made the front page of the Turner &quot;Town Gazette&quot;  Every last one, route one, rural heart's got a story to tell Every grandma, in law, ex girlfriend Maybe knows you just a little too well Whether you're late for church or you're stuck in jail Hey words gonna get around Everybody dies famous in a small town  Tyler and Casey broke up It ended pretty quietly We heard he was caught red-handed with her mama That's just what they let us all believe  Every last one, route one, rural heart's got a story to tell Every grandma, in law, ex girlfriend Maybe knows you just a little too well Whether you're late for church or you're stuck in jail Hey words gonna get around Everybody dies famous in a small town  Baby who Needs their faces in a magazine Me and you We've been stars of the town since we were 17  Let's go on down to the quick stop Wear your yellow shades And I'll put on my tight jeans And we'll just spend the weekend burnin' rubber And we'll let em point and stare in disbelief  Every last one, route one, rural heart's got a story to tell Every grandma, in law, ex girlfriend Maybe knows you just a little too well Whether you're late for church or you're stuck in jail Hey words gonna get around Everybody dies famous in a small town ",
+        "artist": "mirandalambert",
+        "category": "money"
+    },
+    {
+	"genre": "country",
+        "artist": "Brad Paisley",
+        "sentiment": 0.9915,
+        "lyrics": " When I was ten years old,  I remember thinkin' how cool it would be,  When we were goin' on an eight hour drive,  If I could just watch T.V.   And I'd have given anything  To have my own PacMan game at home.  I used to have to get a ride down to the arcade;  Now I've got it on my phone.   He-e-ey...  Glory glory hallelujah.  Welcome to the future.   My grandpa was in World War II,  He fought against the Japanese.  He wrote a hundred letters to my grandma;  Mailed em from his base in the Philippines.   I wish they could see this now,  Where they say this change can go.  Cause I was on a video chat this morning  With a company in Tokyo.   He-e-ey...  Everyday is a revolution.  Welcome to the future.   He-e-ey...  Look around it's all so clear.  He-e-ey...  Wherever we would go and well we...  He-e-ey...  So many things I never thought I'd see...  Happening right in front of me.   I had a friend in school,  Running-back on a football team,  They burned a cross in his front yard  For asking out the home-coming queen.   I thought about him today,  Everybody who's seen what he's seen,  From a woman on a bus  To a man with a dream.   He-e-ey...  Wake up Martin Luther.  Welcome to the future.  He-e-ey...  Glory glory hallelujah.  Welcome to the future. ",
+        "song": "Welcome To The Future"
+    },
+    {
+	"genre": "country",
+        "artist": "Gretchen Wilson",
+        "sentiment": -0.9555,
+        "lyrics": " Well, I ain't never been the Barbie doll type No, I can't swig that sweet Champagne, I'd rather drink beer all night In a tavern or in a honky tonk or on a four-wheel drive tailgate I've got posters on my wall of Skynyrd, Kid and Strait Some people look down on me, but I don't give a rip I'll stand barefooted in my own front yard with a baby on my hip 'Cause I'm a redneck woman I ain't no high class broad I'm just a product of my raising I say, 'hey ya'll' and 'yee-haw' And I keep my Christmas lights on On my front porch all year long And I know all the words to every Charlie Daniels song So here's to all my sisters out there keeping it country Let me get a big 'hell yeah' from the redneck girls like me, hell yeah Victoria's Secret, well their stuff's real nice But I can buy the same damn thing on a Wal-Mart shelf half price And still look sexy, just as sexy as those models on TV No, I don't need no designer tag to make my man want me Well, you might think I'm trashy, a little too hardcore But in my neck of the woods I'm just the girl next door I'm a redneck woman I ain't no high class broad I'm just a product of my raising I say, 'hey y'all' and 'yee-haw' And I keep my Christmas lights on On my front porch all year long And I know all the words to every Tanya Tucker song So here's to all my sisters out there keeping it country Let me get a big 'hell yeah' from the redneck girls like me, hell yeah Hey, I'm a redneck woman And I ain't no high class broad I'm just a product of my raising And I say, 'hey y'all' and 'yee-haw' And I keep my Christmas lights on On my front porch all year long And I know all the words to every ol' Bocephus song So here's to all my sisters out there keeping it country Let me get a big 'hell yeah' from the redneck girls like me, hell yeah Hell yeah, hell yeah Hell yeah I said hell yeah!  <i>[French translation:]</i>  Eh bien, je n'ai jamais \u00e9t\u00e9 le type de poup\u00e9e Barbie Non, je ne peux pas cette douce gorg\u00e9e de Champagne, je pr\u00e9f\u00e8re boire de la bi\u00e8re toute la nuit Dans une taverne ou dans un honky tonk, ou sur un hayon \u00e0 quatre roues motrices J'ai posters sur mon mur de Skynyrd, Kid et le d\u00e9troit Certaines personnes me regardent de haut, mais je ne donne pas une d\u00e9chirure Je pr\u00e9f\u00e8re rester debout pieds nus dans ma propre cour avant avec un b\u00e9b\u00e9 sur la hanche Parce que je suis une femme de redneck Je ne suis pas de grande classe large Je suis juste un produit de mon \u00e9levage Je dis, \u00abvous tous hey\u00bb et \u00abyee-haw\u00bb Et je garde mes lumi\u00e8res de No\u00ebl Sur mon porche toute l'ann\u00e9e Et connais toutes les paroles de chaque chanson Charlie Daniels Voici donc \u00e0 tous mes soeurs l\u00e0-bas gardant pays Permettez-moi &quot;ouais&quot; un gros beauf des filles comme moi, ouais Victoria's Secret, ainsi leurs trucs sympa r\u00e9el Mais je peux acheter la m\u00eame fichue chose sur un prix de Wal-Mart moiti\u00e9 plateau Et toujours l'air sexy, tout aussi sexy que celles des mod\u00e8les \u00e0 la t\u00e9l\u00e9vision Non, je n'ai pas besoin de tag concepteur pour faire envie \u00e0 mon homme Eh bien, vous pourriez penser que je suis trash, un peu trop hardcore Mais dans mon coin de pays, je suis juste la fille d'\u00e0 c\u00f4t\u00e9 Je suis une femme de redneck Je ne suis pas de grande classe large Je suis juste un produit de mon \u00e9levage Je dis: \u00abhey y'all\u00bb et \u00abyee-haw\u00bb Et je garde mes lumi\u00e8res de No\u00ebl Sur mon porche toute l'ann\u00e9e Et je connais toutes les paroles de chaque chanson Tanya Tucker Voici donc \u00e0 tous mes soeurs l\u00e0-bas gardant pays Permettez-moi &quot;ouais&quot; un gros beauf des filles comme moi, ouais Hey, je suis une femme de redneck Et je ne n'est pas de grande classe large Je suis juste un produit de mon \u00e9levage Et je dis: \u00abhey y'all\u00bb et \u00abyee-haw\u00bb Et je garde mes lumi\u00e8res de No\u00ebl Sur mon porche toute l'ann\u00e9e Et je connais tous les mots de la chanson des ol 'Bocephus Voici donc \u00e0 tous mes soeurs l\u00e0-bas gardant pays Permettez-moi &quot;ouais&quot; un gros beauf des filles comme moi, ouais Hell yeah, yeah enfer Hell yeah J'ai dit ouais! ",
+        "song": "Redneck Woman",
+        "category": "relationships"
+    },
+    {
+	"genre": "country",
+        "artist": "Ronnie Milsap",
+        "sentiment": 0.6544,
+        "lyrics": " I thumb my way from L.A. back to Knoxville. I found out those bright lights ain't where I belong. From a phone booth in the rain I called to tell her, I've had a change of dreams I'm coming home. But the tears filled my eyes when I found out she was gone. Smoky Mountain rain keeps on falling, I'll keep on calling her name. Smoky Mountain rain, I'll keep on searching, I can't go on hurting this way.  She's somewhere in this Smoky Mountain rain. I can't blame her for letting go, a woman needs someone warm to hold. Feel the rain running down my face, I'll find her no matter what it takes. <i>[repeat chorus]</i> I waved a diesel down outside a cafe, said he was going as far as Gatlinburg. I climbed in the cab all wet and cold and lonely. I wiped my eyes and told him about her. I've got to find her, Can you make these big wheels burn. smoky Mountain rain keeps on falling I'll keep on calling her name. Smoky Mountain rain, I'll keep on searching I can't go on hurting this way. She's somewhere in the Smoky Mountain rain. ",
+        "song": "Smoky Mountain Rain",
+        "category": "relationships"
+    },
+    {
+	"genre": "country",
+        "artist": "Bellamy Brothers",
+        "sentiment": 0.9819,
+        "lyrics": " He turned thirty-five last Sunday In his hair he found some gray But he still ain't changed his lifestyle He likes it better the old way So he grows a little garden in the back yard by the fence He's consuming what he's growing nowadays in self defense He get's out there in the twilight zone Sometimes when it just don't make no sense  He gets off on country music Cause disco left him cold He's got young friends into new wave But he's just too friggin' old And he dreams at night of Woodstock and the day John Lennon died How the music made him happy and the silence made him cry Yeah he thinks of John sometimes And he has to wonder why  <i>[Chorus:]</i> He's an old hippie and he don't know what to do Should he hang on to the old Should he grab on to the new He's an old hippie...his new life is just a bust He ain't trying to change nobody He's just trying real hard to adjust  He was sure back in the sixties that everyone was hip Then they sent him off to Vietnam on his senior trip And they forced him to become a man while he was still a boy And in each wave of tragedy he waited for the joy Now this world may change around him But he just can't change no more  <i>[Chorus]</i>  Well, he stays away a lot now from the parties and the clubs And he's thinking while he's joggin' 'round Sure is glad he quit the hard drugs Cause him and his kind get more endangered everyday And pretty soon the species will just up and fade away Like the smoke from that torpedo...just up and fade away  <i>[Chorus]</i> ",
+        "song": "Old Hippie",
+        "category": "drugs"
+    },
+    {
+	"genre": "country",
+        "artist": "Dwight Yoakam",
+        "sentiment": -0.9657,
+        "lyrics": " Girl you taught me how to hurt real bad and cry myself to sleep And showed me how this town can shatter dreams Another lesson 'bout a naive fool who came to Babylon And found out that the pie don't taste so sweet  Now it's guitars, Cadillacs, hillbilly music Lonely, lonely streets that I call home Yeah, my guitars, Cadillacs, hillbilly music It's the only thing that keeps me hangin' on  Ain't no glamour in this tinseled land of lost and wasted lives Painful scars are all that's left of me Oh, but thank you girl for teachin' me brand new ways to be cruel If I can find my mind now I guess I'll just leave  And it's guitars, Cadillacs, hillbilly music Lonely, lonely streets that I call home Yeah, my guitars, Cadillacs, hillbilly music It's the only thing that keeps me hangin' on  Oh it's guitars, Cadillacs, hillbilly music Lonely, lonely streets that I call home Yeah, my guitars, Cadillacs, hillbilly music It's the only thing that keeps me hangin' on It's the only thing that keeps me hangin' on It's the only thing that keeps me hangin' on ",
+        "song": "Guitars, Cadillacs",
+        "category": "relationships"
+    },
+    {
+	"genre": "country",
+        "artist": "Juice Newton",
+        "sentiment": 0.8776,
+        "lyrics": " Midnight, and I'm a-waiting on the twelve-oh-five Hoping it'll take me just a little farther down the line  Moonlight, you're just a heartache in disguise Won't you keep my heart from breaking If it's only for a very short time  Playing with the queen of hearts Knowing it ain't really smart The joker ain't the only fool Who'll do anything for you Laying out another lie Thinking 'bout a life of crime 'Cause that's what I'll have to do To keep me away from you  Honey, you know it makes you mad Why is everybody telling everybody what you have done  Baby, I know it makes you sad But when they're handing out the heartaches You know you got to have you some  Playing with the queen of hearts Knowing it ain't really smart The joker ain't the only fool Who'll do anything for you Laying out another lie, Thinking 'bout a life of crime 'Cause that's what I'll have to do To keep me away from you  Lovers, I know you've had a few But hide your heart beneath the covers And tell 'em they're the only one  And others, they know just what I'm going through And it's a-hard to be a lover When you say you're only in it for fun  Playing with the queen of hearts Knowing it ain't really smart The joker ain't the only fool Who'll do anything for you  Playing with the queen of hearts Knowing it ain't really smart The joker ain't the only fool Who'll do anything for you Laying out another lie, Thinking 'bout a life of crime 'Cause that's what I'll have to do To keep me away from you  Playing with the queen of hearts Playing with the queen of hearts Playing with the queen of hearts Playing with the queen of hearts ",
+        "song": "Queen Of Hearts",
+        "category": "relationships"
+    },
+    {
+	"genre": "country",
+        "artist": "Lyle Lovett",
+        "sentiment": 0.4191,
+        "lyrics": " If I had a boat I'd go out on the ocean And if I had a pony I'd ride him on my boat And we could all together Go out on the ocean Me upon my pony on my boat  If I were Roy Rogers I'd sure enough be single I couldn't bring myself to marrying old Dale It'd just be me and trigger We'd go riding through them movies Then we'd buy a boat and on the sea we'd sail  And if I had a boat I'd go out on the ocean And if I had a pony I'd ride him on my boat And we could all together Go out on the ocean Me upon my pony on my boat  The mystery masked man was smart He got himself a Tonto 'Cause Tonto did the dirty work for free But Tonto he was smarter And one day said kemo sabe Kiss my ass I bought a boat I'm going out to sea  And if I had a boat I'd go out on the ocean And if I had a pony I'd ride him on my boat And we could all together Go out on the ocean Me upon my pony on my boat  And if I were like lightning I wouldn't need no sneakers I'd come and go wherever I would please And I'd scare 'em by the shade tree And I'd scare 'em by the light pole But I would not scare my pony on my boat out on the sea  And if I had a boat I'd go out on the ocean And if I had a pony I'd ride him on my boat And we could all together Go out on the ocean Me upon my pony on my boat ",
+        "song": "If I Had a Boat"
+    },
+    {
+	"genre": "country",
+        "artist": "Neko Case",
+        "sentiment": 0.128,
+        "lyrics": " So the saying says  An elephant never forgets  Standing in the concrete cave  Swaying side and sing  They walked over the ocean  And their dreams they dreamed awake  Until the lights grew dim  Until the cop cars came  Everybody tells me this is crazy, yes I know   But I'm a man man man man man man man eater  But still you're surprised prised prised when I eat ya   You know they call them killer whales  But you seem suprised  When it pinned you down to the bottom of the tank  Where you can't turn around  It took half your leg and both your lungs  And I craved I ate hearts of sharks, I know you know it   I'm a man man man man, man man man eater  But still you're surprised prised prised when I eat ya <i>[X2]</i>  It will end again in moonlit song  It will end again in moonlit song ",
+        "song": "People Got A Lotta Nerve"
+    },
+    {
+	"genre": "country",
+        "artist": "Reba McEntire",
+        "sentiment": 0.9803,
+        "lyrics": " I remember it all very well lookin' back It was the summer I turned eighteen We lived in a one room, rundown shack On the outskirts of New Orleans We didn't have money for food or rent To say the least we were hard pressed Then Mama spent every last penny we had To buy me a dancin' dress  Mama washed and combed and curled my hair And she painted my eyes and lips Then I stepped into a satin' dancin' dress That had a split on the side clean up to my hip It was red velvet trim and it fit me good Standin' back from the lookin' glass There stood a woman where a half grown kid had stood  She said, &quot;Here's your one chance, Fancy, don't let me down. Here's your one chance, Fancy, don't let me down  Mama dabbled a little bit of perfume on my neck and then she kissed my cheek And then I saw the tears wellin' up in her troubled eyes as she started to speak She looked at a pitiful shack And then she looked at me and took a ragged breath She said, &quot;Your Pa's runned off and I'm real sick, And the baby's gonna starve to death.&quot;  She handed me a heart shaped locket that said, &quot;To thine own self be true.&quot; And I shivered as I watched a roach crawl across The toe of my high heeled shoe It sounded like somebody else that was talkin' Askin', &quot;Mama, what do I do?&quot; She said, &quot;Just be nice to the gentlemen, Fancy, And they'll be nice to you.&quot;  She said, &quot;Here's your one chance, Fancy, don't let me down. Here's your one chance, Fancy, don't let me down.&quot; Lord, forgive me for what I do, But if you want out, well, it's up to you Now don't let me down Now your mama's gonna move you uptown  Well, that was the last time I saw my Ma The night I left that rickety shack The welfare people came and took the baby Mama died and I ain't been back  But the wheels of fate had started to turn And for me there was no way out And it wasn't very long 'til I knew exactly What my Mama'd been talkin' about  I knew what I had to do and I made myself this solemn vow That I's gonna be a lady someday Though I didn't know when or how But I couldn't see spending the rest of my life With my head hung down in shame You know I might have been born just plain white trash But Fancy was my name  She said, &quot;Here's your one chance, Fancy, don't let me down. She said, &quot;Here's your one chance, Fancy, don't let me down.  It wasn't long after that benevolent man took me off the street And one week later I was pourin' his tea in a five room hotel suite  I charmed a king, a congressman and an occasional aristocrat And then I got me a Georgia mansion and an elegant New York townhouse flat And I ain't done bad  Now in this world there's a lot of self-righteous hypocrites That would call me bad They criticize Mama for turning me out No matter how little we had  But though I ain't had to worry 'bout nothin' for nigh on fifteen years Well, I can still hear the desperation in my poor Mama's voice ringin' in my ears  &quot;Here's your one chance, Fancy, don't let me down. Here's your one chance, Fancy, don't let me down.&quot; Lord, forgive me for what I do But if you want out well it's up to you Now don't let me down Now your Mama's gonna move you uptown  Well, I guess she did ",
+        "song": "Fancy",
+        "category": "family"
+    },
+    {
+	"genre": "country",
+        "artist": "Gary Allan",
+        "sentiment": 0.8689,
+        "lyrics": " Well this town has closed down way too early,  And there's nothing to do, So I'm driving around in circles,  And I'm thinking about you, Today I heard you got a new last name, Sure didn't know it was gonna hit me this way, And the radio just keeps on playing all these songs about rain Now there's all kind of songs about babies and love that goes right, But for some unknown reason nobody wants to play them tonight, Hey I hope it's sunny wherever you are, But that's sure not the picture tonight in my car,  And it sure ain't easing my pain all these songs like,  Rainy Night In Georgia, and Kentucky Rain, Here Comes That Rainy Day Feeling Again,  Blue Eyes Crying In The early morning Rain, They go on and on, And there's no two the same,  Oh it would be easy to blame all these songs about rain, Well I thought I was over you but I guess maybe I'm not, Cause when I let you go looks like lonely is all that I got, Guess I'll never know what could have been, Sure ain't helping this mood that I'm in, If their gonna keep on playing me songs like,   Rainy Night In Georgia, and Kentucky Rain, Here Comes That Rainy Day Feeling Again,  Blue Eyes Crying In The early morning Rain, They go on and on, And there's no two the same,  Oh how I wish I could blame all these songs about rain, All these songs about rain, Songs about rain....... ",
+        "song": "Songs About Rain",
+        "category": "relationships"
+    },
+    {
+	"genre": "country",
+        "artist": "Martina McBride",
+        "sentiment": -0.5448,
+        "lyrics": " Well she seemed all right by dawns early light Though she looked a little worried and weak She tried to pretend he wasn't drinkin' again But daddy left the proof on her cheek And I was only eight years old that summer And I always seemed to be in the way So I took myself down to the fair in town On Independence Day  Well word gets around in a small, small town They said he was a dangerous man But mama was proud and she stood her ground She knew she was on the losin' end Some folks whispered and some folks talked But everybody looked the other way And when time ran out there was no one about On Independence Day  Let freedom ring, let the white dove sing Let the whole world know that today is a day of reckoning Let the weak be strong, let the right be wrong Roll the stone away, let the guilty pay it's Independence Day  Well she lit up the sky that fourth of July By the time that the firemen come They just put out the flames, and took down some names And sent me to the county home Now I ain't sayin' it's right or it's wrong But maybe it's the only way Talk about your revolution It's Independence Day  Let freedom ring, let the white dove sing Let the whole world know that today is a day of reckoning Let the weak be strong, let the right be wrong Roll the stone away, let the guilty pay it's Independence Day Roll the stone away It's Independence day ",
+        "song": "Independence Day",
+        "category": "family"
+    },
+    {
+	"genre": "country",
+        "artist": "Jamey Johnson",
+        "sentiment": 0.9273,
+        "lyrics": " I said Grandpa what's this picture here It's all black and white, and it ain't real clear Is that you there, he said yeah, I was eleven And times were tough, back in thirty-five That's me and Uncle Joe just tryin' to survive A cotton farm, in the Great Depression  And if it looks like we were scared to death Like a couple of kids just trying to save each other You should've seen it in color  This one here was taken overseas In the middle of hell, in nineteen forty-three In the winter time, you can almost see my breath That was my tail gunner ole' Johnny McGee He was a high school teacher from New Orleans And he had my back, right through the day we left  If it looks like we were scared to death Like a couple of kids just trying to save each other You should've seen it in color  A picture's worth a thousand words But you can't see what those shades of gray keep covered You should've seen it in color  And this one is my favorite one This is me and grandma in the, summer sun All dressed up, the day we said our vows You can't tell it here but it was hot that June And that rose was red and her eyes were blue And just look at that smile, I was so proud  That's the story of my life Right there in black and white  And if it looks like we were scared to death Like a couple of kids just trying to save each other You should've seen it in color  Yeah a picture's worth a thousand words But you can't see what those shades of gray keep covered You should've seen it in color (Should've seen it in color) ",
+        "song": "In Color"
+    },
+    {
+	"genre": "country",
+        "artist": "Dolly Parton",
+        "sentiment": 0.9931,
+        "lyrics": " Back through the years I go wonderin' once again Back to the seasons of my youth I recall a box of rags that someone gave us And how my momma put the rags to use There were rags of many colors Every piece was small And I didn't have a coat And it was way down in the fall Momma sewed the rags together Sewin' every piece with love She made my coat of many colors That I was so proud of As she sewed, she told a story From the bible, she had read About a coat of many colors Joseph wore and then she said Perhaps this coat will bring you Good luck and happiness And I just couldn't wait to wear it And momma blessed it with a kiss  My coat of many colors That my momma made for me Made only from rags But I wore it so proudly Although we had no money I was rich as I could be In my coat of many colors My momma made for me  So with patches on my britches Holes in both my shoes In my coat of many colors I hurried off to school Just to find the others laughing And making fun of me In my coat of many colors My momma made for me  And oh I couldn't understand it For I felt I was rich And I told them of the love My momma sewed in every stitch And I told 'em all the story Momma told me while she sewed And how my coat of many colors Was worth more than all their clothes  But they didn't understand it And I tried to make them see That one is only poor Only if they choose to be Now I know we had no money But I was rich as I could be In my coat of many colors My momma made for me Made just for me ",
+        "song": "Coat Of Many Colors"
+    },
+    {
+	"genre": "country",
+        "artist": "Alabama",
+        "sentiment": 0.9898,
+        "lyrics": " <i>[Spoken:]</i> &quot;You see that mountain over there? Yeah? Well, one of these days I'm gonna climb that mountain&quot;.  <i>[Chorus:]</i> Oh, play me some mountain music, Like grandma and grandpa used to play. Then I'll float on down the river To a Cajun hideaway.  Drift away like Tom Sawyer, ride a raft with ol' Huck Finn. Take a nap like Rip Van Winkle, daze dreamin' again.  <i>[Chorus:]</i> Oh, play me some mountain music, Like grandma and grandpa used to play. Then I'll float on down the river To a Cajun hideaway.  Swim across the river, just to prove that I'm a man. Spend the day bein' lazy, just bein' nature's friend. Climb a long tall hick'ry. Bend it over, skinnin' cats. Playin' baseball with chert rocks, usin' sawmill slabs for bats.  <i>[Bridge:]</i> Play some back-home, come-on music That comes from the heart. Play something with lots of feelin', 'Cause that's where music has to start.  <i>[Chorus:]</i> Oh, play me some mountain music, Like grandma and grandpa used to play. Then I'll float on down the river To a Cajun hideaway, hey hey.  Oh play me mountain music. Oh play me mountain music. Oh play me mountain music. Oh play me mountain music. ",
+        "song": "Mountain Music"
+    },
+    {
+	"genre": "country",
+        "artist": "Lee Ann Womack",
+        "sentiment": 0.9984,
+        "lyrics": " I hope you never lose your sense of wonder, You get your fill to eat but always keep that hunger, May you never take one single breath for granted, GOD forbid love ever leave you empty handed, I hope you still feel small when you stand beside the ocean, Whenever one door closes I hope one more opens, Promise me that you'll give faith a fighting chance, And when you get the choice to sit it out or dance.  I hope you dance....I hope you dance.  I hope you never fear those mountains in the distance, Never settle for the path of least resistance Livin' might mean takin' chances but they're worth takin', Lovin' might be a mistake but it's worth makin', Don't let some hell bent heart leave you bitter, When you come close to sellin' out reconsider, Give the heavens above more than just a passing glance, And when you get the choice to sit it out or dance.  I hope you dance....I hope you dance. I hope you dance....I hope you dance. (Time is a wheel in constant motion always rolling us along, Tell me who wants to look back on their years and wonder where those years have gone.)  I hope you still feel small when you stand beside the ocean, Whenever one door closes I hope one more opens, Promise me that you'll give faith a fighting chance,                                    And when you get the choice to sit it out or dance.                                      Dance....I hope you dance.                                                I hope you dance....I hope you dance.                                            I hope you dance....I hope you dance..                                           (Time is a wheel in constant motion always rolling us along                                        Tell me who wants to look back on their years and wonder where those years have gone) ",
+        "song": "I Hope You Dance"
+    },
+    {
+	"genre": "country",
+        "artist": "Tammy Wynette",
+        "sentiment": 0.9284,
+        "lyrics": " Our little boy is four years old and quite a little man So we spell out the words we don't want him to understand Like T-O-Y or maybe S-U-R P-R-I-S-E But the words we're hiding from him now Tear the heart right out of me.  Our D-I-V-O-R-C-E; becomes final today Me and little J-O-E will be goin' away I love you both and this will be pure H-E double L for me Oh, I wish that we could stop this D-I-V-O-R-C-E.  Watch him smile, he thinks it Christmas Or his 5th Birthday And he thinks C-U-S-T-O-D-Y spells fun or play I spell out all the hurtin' words And turn my head when I speak 'Cause I can't spell away this hurt That's drippin' down my cheek.  Our D-I-V-O-R-C-E; becomes final today Me and little J-O-E will be  goin' away I love you both and this will be pure H-E double L for me Oh, I wish that we could stop this D-I-V-O-R-C-E. ",
+        "song": "D-I-V-O-R-C-E",
+        "category": "family"
+    },
+    {
+	"genre": "country",
+        "artist": "John Prine",
+        "sentiment": 0.2732,
+        "lyrics": " I am an old woman named after my mother My old man is another child that's grown old If dreams were lightning thunder was desire This old house would have burnt down a long time ago  <i>[Chorus:]</i> Make me an angel that flies from Montgom'ry Make me a poster of an old rodeo Just give me one thing that I can hold on to To believe in this living is just a hard way to go  When I was a young girl well, I had me a cowboy He weren't much to look at, just free rambling man But that was a long time and no matter how I try The years just flow by like a broken down dam.  <i>[Chorus]</i>  There's flies in the kitchen I can hear 'em there buzzing And I ain't done nothing since I woke up today. How the hell can a person go to work in the morning And come home in the evening and have nothing to say.  <i>[Chorus]</i> ",
+        "song": "Angel From Montgomery"
+    },
+    {
+	"genre": "country",
+        "artist": "Rosanne Cash",
+        "sentiment": 0.6546,
+        "lyrics": " You act like you were just born tonight Face down in a memory but feeling all right So who does your past belong to today Baby, you don't say nothing when you're feeling this way  Girls in the bars thinking who is this guy But they don't think nothing when they're telling you lies You look so careless when they're shooting that bull Don't you know heartaches are heroes when their pockets are full  Tell me you're trying to cure a seven year ache See what else your old heart can take Boys say, &quot;when is he gonna give us some room&quot; The girls say, &quot;God, I hope he comes back soon&quot;  And everybody's talking but you don't hear a thing You're still uptown on your downhill swing Boulevard's empty, why don't you come around Baby, what is so great about sleeping downtown  There's plenty of dives to be someone you're not Just say you're looking for something you might have forgot Don't bother calling to say you're leaving alone 'Cause there's a fool on every corner when you're trying to get home  Just tell 'em your trying to cure a seven year ache See what else your old heart can take Boys say, &quot;when is he gonna give us some room&quot; The girls say, &quot;God, I hope he comes back soon&quot;  Tell me you're trying to cure a seven year ache See what else your old heart can take Boys say, &quot;when is he gonna give us some room&quot; The girls say, &quot;God, I hope he comes back soon&quot; ",
+        "song": "Seven Year Ache"
+    },
+    {
+	"genre": "country",
+        "artist": "Patsy Cline",
+        "sentiment": 0.9383,
+        "lyrics": " I fall to pieces Each time I see you again I fall to pieces How can I be just your friend?  You want me to act like we've never kissed You want me to forget (to forget) Pretend we've never met (never met) And I've tried and I've tried, but I haven't yet You walk by and I fall to pieces  I fall to pieces Each time someone speaks your name (speaks your name) I fall to pieces Time only adds to the flame  You tell me to find someone else to love Someone who'll love me too (love me too) The way you used to do (used to do) But each time I go out with someone new You walk by and I fall to pieces You walk by and I fall to pieces ",
+        "song": "I Fall To Pieces"
+    },
+    {
+	"genre": "country",
+        "artist": "George Jones",
+        "sentiment": -0.3948,
+        "lyrics": " I feel tears wellin' up cold and deep inside Like my heart's sprung a big break And the stab of loneliness, sharp and painful That I may never shake Now you might say that I was taking it hard Since you wrote me off with a call But don't you wager that I'll hide the sorrow When I may break right down and bawl  Now the race is on and here comes pride up the backstretch Heartaches are going to the inside My tears are holding back They're trying not to fall My heart's out of the running True love's scratched for another's sake The race is on and it looks like heartaches And the winner loses all  One day I had ventured in love, never once suspecting What the final results would be How I lived in fear of waking up each morning And finding that you'd gone from me There's aching and pain in my heart For the day was the one that I hated to face Somebody new came up to win her And I came out in second place  Now the race is on and here comes pride up the backstretch Heartaches are going to the inside My tears are holding back They're trying not to fall My heart's out of the running True love's scratched for another's sake The race is on and it looks like heartaches And the winner loses all ",
+        "song": "The Race Is On"
+    },
+    {
+	"genre": "country",
+        "artist": "Ray Price",
+        "sentiment": 0.9708,
+        "lyrics": " Now blue ain't the world for the way that I feel And the storm's brewing in this heart of mine This ain't no crazy dream I know that it's real You're someone else's love now you're not mine Crazy arms that reach to hold somebody new For my yearning heart keeps saying you're not mine My troubled mind knows soon to another you'll be wed And that's why I'm lonely all the time  So please take the treasured dreams I had for you and me And take all the love I thought was mine Someday my crazy arms may hold somebody new But now I'm so lonely all the time Crazy arms that reach... ",
+        "song": "Crazy Arms"
+    },
+    {
+	"genre": "country",
+        "artist": "Marty Robbins",
+        "sentiment": -0.1457,
+        "lyrics": " Out in the West Texas town of El Paso I fell in love with a Mexican girl Nighttime would find me in Rosa's cantina Music would play and Felina would whirl  Blacker than night were the eyes of Felina Wicked and evil while casting a spell My love was deep for this Mexican maiden I was in love but in vain, I could tell  One night a wild young cowboy came in Wild as the West Texas wind Dashing and daring, a drink he was sharing With wicked Felina, the girl that I loved  So in anger I Challenged his right for the love of this maiden Down went his hand for the gun that he wore My challenge was answered in less than a heartbeat The handsome young stranger lay dead on the floor  Just for a moment I stood there in silence Shocked by the foul evil deed I had done Many thoughts raced through my mind as I stood there I had but one chance and that was to run  Out through the back door of Rosa's I ran Out where the horses were tied I caught a good one, it looked like it could run Up on its back and away I did ride  Just as fast as I Could from the West Texas town of El Paso Out to the badlands of New Mexico  Back in El Paso my life would be worthless Everything's gone in life; nothing is left It's been so long since I've seen the young maiden My love is stronger than my fear of death  I saddled up and away I did go Riding alone in the dark Maybe tomorrow, a bullet may find me Tonight nothing's worse than this pain in my heart  And at last here I Am on the hill overlooking El Paso I can see Rosa's cantina below My love is strong and it pushes me onward Down off the hill to Felina I go  Off to my right I see five mounted cowboys Off to my left ride a dozen or more Shouting and shooting, I can't let them catch me I have to make it to Rosa's back door  Something is dreadfully wrong for I feel A deep burning pain in my side Though I am trying to stay in the saddle I'm getting weary, unable to ride  But my love for Felina is strong and I rise where I've fallen Though I am weary I can't stop to rest I see the white puff of smoke from the rifle I feel the bullet go deep in my chest  From out of nowhere Felina has found me Kissing my cheek as she kneels by my side Cradled by two loving arms that I'll die for One little kiss and Felina, goodbye ",
+        "song": "El Paso",
+        "category": "relationships"
+    },
+    {
+	"genre": "country",
+        "artist": "Eric Church",
+        "sentiment": 0.9266,
+        "lyrics": " To this day when I hear that song, I see you standing there on that lawn Discount shades, store bought tan, flip-flops and cut off jeans Somewhere between that setting sun, I'm On Fire and Born To Run You looked at me and I was done, we were just getting started  I was singing to you, you were singing to me I was so alive, never been more free Fired up my daddy's lighter and we sang oh Stayed there 'til they forced us out We took the long way to your house And I can still hear the sound Of you saying, &quot;Don't go&quot;  When I think about you I think about 17 I think about my old Jeep I think about the stars in the sky Funny how a melody sounds like a memory Like a soundtrack to a July Saturday night Springsteen  I bumped in to you by happenstance You probably wouldn't even know who I am But if I whispered your name, I bet there'd still be a spark Back when I was gasoline and this old tattoo had brand new ink And we didn't care what your momma think 'bout your name on my arm  Baby is it spring or is it summer The guitar sound or the beat of the drummer You hear sometimes late at night on your radio Even though you're a million miles away When you hear Born In The USA Do you relive those glory days from so long ago  When you think about me Do you think about 17 Do you think about my old Jeep Think about the stars in the sky Funny how a melody sounds like a memory Like a soundtrack to a July Saturday night Springsteen, Springsteen  Woah-oh-oh-oh Woah-oh-oh-oh Woah-oh-oh-oh-oh-oh-oh Woah-oh-oh-oh woah-oh-oh-oh Woah-oh-oh-oh-oh-oh-oh  Funny how a melody sounds like a memory Like a soundtrack to a July Saturday night Springsteen, Springsteen, oh, Springsteen  Woah-oh-oh-oh Woah-oh-oh-oh Woah-oh-oh-oh-oh-oh-oh Woah-oh-oh-oh woah-oh-oh-oh Woah-oh-oh-oh-oh-oh-oh Woah-oh-oh-oh Woah-oh-oh-oh Woah-oh-oh-oh-oh-oh-oh Woah-oh-oh-oh woah-oh-oh-oh Woah-oh-oh-oh-oh-oh-oh ",
+        "song": "Springsteen"
+    },
+    {
+	"genre": "country",
+        "artist": "Carrie Underwood",
+        "sentiment": 0.7147,
+        "lyrics": " Right now he's probably slow dancing with a bleached-blond tramp, And she's probably getting frisky... Right now, he's probably buying her some fruity little drink 'Cause she can't shoot whiskey... Right now, he's probably up behind her with a pool stick, Showing her how to shoot a combo...  And he don't know...  That I dug my key into the side Of his pretty little souped-up four-wheel drive, Carved my name into his leather seats... I took a Louisville slugger to both headlights, Slashed a hole in all four tires... Maybe next time he'll think before he cheats.  Right now, she's probably up singing some White-trash version of Shania karaoke. Right now, she's probably saying, &quot;I'm drunk&quot; And he's a-thinking that he's gonna get lucky, Right now, he's probably dabbing on 3 dollars worth of that bathroom Polo*...  Oh, and he don't know...  That I dug my key into the side Of his pretty little souped-up four-wheel drive, Carved my name into his leather seats, I took a Louisville slugger to both headlights, Slashed a hole in all four tires... Maybe next time he'll think before he cheats.  I might've saved a little trouble for the next girl, 'Cause the next time that he cheats... Oh, you know it won't be on me!  No... not on me  'Cause I dug my key into the side Of his pretty little souped-up four-wheel drive, Carved my name into his leather seats... I took a Louisville slugger to both headlights, Slashed a hole in all four tires... Maybe next time he'll think before he cheats.  Oh, maybe next time he'll think before he cheats...  Oh, before he cheats... oh, oh. ",
+        "song": "Before He Cheats",
+        "category": "relationships"
+    },
+    {
+	"genre": "country",
+        "artist": "Brad Paisley",
+        "sentiment": 0.875,
+        "lyrics": " I can make anybody pretty I can make you believe any lie I can make you pick a fight  With somebody twice your size  I been known to cause a few break ups I been known to cause a few births I can make you new friends  Or get you fired from Work  <i>[1st Chorus]</i> And since the day I left Milwaukee  Lynchburg and Bordeaux France Been making the bars lots of big money And helping white people dance I got you in trouble in high school But college, now that was a ball You had some of the best times  You'll never remember with me Alcohol Alcohol  I got blamed at your wedding reception For your best man's embarrassing speech And also for those Naked pictures of you at the beach  I've influenced kings and world leaders I helped Hemmingway write like he did And I'll bet you a drink or two that I can make you Put that lampshade on your head  <i>[2nd Chorus]</i> 'Cause since the day I left Milwaukee  Lynchburg and Bordeaux France Been making a fool out of folks just like you And helping white people dance I'm medicine and I am poison  I can help you up or make you fall You had some of the best times  You'll never remember with me Alcohol Alcohol  <i>[Repeat 1st Chorus]</i> ",
+        "song": "Alcohol",
+        "category": "drugs"
+    },
+    {
+	"genre": "country",
+        "artist": "Charley Pride",
+        "sentiment": 0.9903,
+        "lyrics": " Whenever I chance to meet some old friends on the street They wonder how does a man get to be this way I've always got a smilin' face any time and any place And everytime they ask me why I just smile and say You've got to kiss an angel good mornin' And let her know you think about her when you're gone Kiss an angel good mornin' and love her like a devil when you get back home  Well people may try to guess the secret of happiness But some of them never learn it's a simple thing The secret I'm speaking of is a woman and a man in love And the answer is in the song that I always sing You've got to kiss an angel good mornin'... Kiss an angel good mornin'... ",
+        "song": "Kiss An Angel Good Mornin'"
+    },
+    {
+	"genre": "country",
+        "artist": "Steve Earle",
+        "sentiment": 0.0744,
+        "lyrics": " Hey pretty baby are you ready for me It's your good rockin' daddy down from Tennessee I'm just out of Austin bound for San Antone With the radio blastin' and the bird dog on There's a speed trap up ahead in Selma Town But no local yokel gonna shut me down 'Cause me and my boys got this rig unwound And we've come a thousand miles from a Guitar Town  Nothin' ever happened 'round my hometown And I ain't the kind to just hang around But I heard someone callin' my name one day And I followed that voice down the lost highway Everybody told me you can't get far On thirty-seven dollars and a jap guitar Now I'm smokin' into Texas with the hammer down And a rockin' little combo from the Guitar Town  Hey pretty baby don't you know it ain't my fault I love to hear the steel belts hummin' on the asphalt Wake up in the middle of the night in a truck stop Stumble in the restaurant wonderin' why I don't stop  Gotta keep rockin' why I still can I gotta two pack habit and a motel tan But when my boots hit the boards I'm a brand new man With my back to the riser I make my stand And hey pretty baby won't you hold me tight We're loadin' up and rollin' out of here tonight One of these days I'm gonna settle down And take you back with me to the Guitar Town ",
+        "song": "Guitar Town"
+    },
+    {
+	"genre": "country",
+        "artist": "George Jones",
+        "sentiment": 0.9413,
+        "lyrics": " Step right up, come on in If you'd like to take the grand tour Of a lonely house that once was home sweet home I have nothing here to sell you, Just some things that I will tell you Some things I know will chill you to the bone.  Over there, sits the chair Where she'd bring the paper to me And sit down on my knee And whisper oh, I love you But now she's gone forever And this old house will never Be the same without the love That we once knew.  Straight ahead, that's the bed Where we'd lay in love together And Lord knows we had a good thing going here See her picture on the table Don't it look like she'd be able Just to touch me and say good morning dear.  There's her rings, all her things And her clothes are in the closet Like she left them When she tore my world apart.  As you leave you'll see the nursery,  Oh, she left me without mercy Taking nothing but Our baby and my heart.  Step right up, come on in... ",
+        "song": "The Grand Tour"
+    },
+    {
+	"genre": "country",
+        "artist": "Buck Owens",
+        "sentiment": 0.9553,
+        "lyrics": " They're gonna put me in the movies They're gonna make a big star out of me We'll make a film about a man that's sad and lonely And all I got to do is act naturally  Well, I bet you I'm a gonna be a big star Might win an Oscar you can never tell The movie's gonna make me a big star, 'Cause I can play the part so well.  Well, I hope you come and see me in the movie Then I'll know that you will plainly see The biggest fool that's ever hit the big time And all I got to do is act naturally.  We'll make a scene about a man that's sad and lonely And begging down upon his bended knee I'll play the part but I won't need rehearsing All I have to do is act naturally.  Well, I bet you I'm a gonna be a big star Might win an Oscar you can never tell The movie's gonna make me a big star, 'Cause I can play the part so well.  Well, I hope you come and see me in the movie Then I'll know that you will plainly see The biggest fool that's ever hit the big time And all I got to do is act naturally... ",
+        "song": "Act Naturally",
+        "category": "money"
+    },
+    {
+	"genre": "country",
+        "artist": "Loretta Lynn",
+        "sentiment": 0.9689,
+        "lyrics": " Well I was born the coal miner's daughter in a cabin on a hill in Butcher Holler We were poor but we had love that's the one thing that daddy made sure of He shovel coal to make a poor man's dollar My daddy worked all night in the Vanleer coal mine all day long in the field hoein' corn Mommie rocked the baby that night and read the Bible by the coal oil light And everything would start all over come break of morn Daddy loved and raised eight kids on a miner's pay Mommie scrubbed our clothes on a washboard everyday Why I've seen her fingers bleed to complain there was no need She's smiled in mommie's understanding way In the summertime we didn't have shoes to wear But in the wintertime we'd all get a brand new pair From a mail order catalog money made by selling a hog Daddy always managed to get the money somewhere Yeah I'm proud to be a coal miner's daughter I remember well the well where I drew water The work we done was hard at night we'd sleep cause we were tired I never thought I'd ever leave the Butcher Holler But a lots of things have changed since the way back then And it's so good to be back home again Not much left but the floor nothing lives there anymore Just the mem'ries of a coal miner's daughter ",
+        "song": "Coal Miner's Daughter",
+        "category": "family"
+    },
+    {
+	"genre": "country",
+        "artist": "Kacey Musgraves",
+        "sentiment": 0.9883,
+        "lyrics": " If you save yourself for marriage You're a bore If you don't save yourself for marriage You're a whore-able person If you won't have a drink Then you're a prude But they'll call you a drunk As soon as you down the first one  If you can't lose the weight Then you're just fat But if you lose too much Then you're on crack You're damned if you do And you're damned if you don't So you might as well just do Whatever you want So  Make lots of noise Kiss lots of boys Or kiss lots of girls If that's something you're into When the straight and narrow Gets a little too straight Roll up a joint, or don't Just follow your arrow Wherever it points, yeah Follow your arrow Wherever it points  If you don't go to church You'll go to hell If you're the first one On the front row You're self-righteous Son of a- Can't win for losing You'll just disappoint 'em Just 'cause you can't beat 'em Don't mean you should join 'em  So make lots of noise Kiss lots of boys Or kiss lots of girls If that's something you're into When the straight and narrow Gets a little too straight Roll up a joint, or don't Just follow your arrow Wherever it points, yeah Follow your arrow Wherever it points  Say what you think Love who you love 'Cause you just get So many trips 'round the sun Yeah, you only Only live once  So make lots of noise Kiss lots of boys Or kiss lots of girls If that's what you're into When the straight and narrow Gets a little too straight Roll up a joint, I would And follow your arrow Wherever it points, yeah Follow your arrow Wherever it points ",
+        "song": "Follow Your Arrow",
+        "category": "relationships"
+    },
+    {
+	"genre": "country",
+        "artist": "Hank Williams",
+        "sentiment": -0.9562,
+        "lyrics": " I'm a rollin stone all alone and lost For a life of sin I have paid the cost When I pass by all the people say Just another guy on the lost highway  Just a deck of cards and a jug of wine And a womans lies makes a life like mine Oh the day we met, I went astray I started rolling down that lost highway  I was just a lad, nearly 22 Neither good nor bad, just a kid like you And now I'm lost, too late to pray Lord I take a cost, oh the lost highway  Now boys don't start to ramblin' round On this road of sin are you sorrow bound Take my advice or you'll curse the day You started rollin' down that lost highway ",
+        "song": "Lost Highway",
+        "category": "drugs"
+    },
+    {
+	"genre": "country",
+        "artist": "Hank Williams",
+        "sentiment": -0.6908,
+        "lyrics": " Your cheatin' heart Will make you weep You'll cry and cry And try to sleep But sleep won't come The whole night through Your cheatin' heart will tell on you...  When tears come down Like falling rain You'll toss around And call my name You'll walk the floor The way I do Your cheatin' heart will tell on you...  Your cheatin' heart Will pine some day And crave the love You threw away The time will come When you'll be blue Your cheatin' heart will tell on you...  When tears come down Like falling rain You'll toss around And call my name You'll walk the floor The way I do Your cheatin' heart will tell on you... ",
+        "song": "Your Cheatin' Heart"
+    },
+    {
+	"genre": "country",
+        "artist": "Hank Williams",
+        "sentiment": -0.8317,
+        "lyrics": " I wandered so aimless life filled with sin I wouldn't let my dear saviour in Then Jesus came like a stranger in the night Praise the Lord I saw the light.  I saw the light I saw the light No more darkness no more night Now I'm so happy no sorrow in sight Praise the Lord I saw the light.  Just like a blind man I wandered along Worries and fears I claimed for my own Then like the blind man that God gave back his sight Praise the Lord I saw the light.  I saw the light I saw the light No more darkness no more night Now I'm so happy no sorrow in sight Praise the Lord I saw the light.  I was a fool to wander and a-stray Straight is the gate and narrow the way Now I have traded the wrong for the right Praise the Lord I saw the light.  I saw the light I saw the light No more darkness no more night Now I'm so happy no sorrow in sight Praise the Lord I saw the light. ",
+        "song": "I Saw The Light"
+    },
+    {
+	"genre": "country",
+        "artist": "Johnny Cash",
+        "sentiment": -0.9818,
+        "lyrics": " Love is a burning thing And it makes a fiery ring. Bound by wild desire I fell into a ring of fire.  <i>[2x]</i> I fell into a burning ring of fire, I went down, down, down and the flames went higher And it burns, burns, burns, The ring of fire, the ring of fire.  The taste of love is sweet When hearts like ours meet. I fell for you like a child, Oh, but the fire went wild.  I fell into a burning ring of fire, I went down, down, down and the flames went higher And it burns, burns, burns, The ring of fire, the ring of fire.  I fell into a burning ring of fire, I went down, down, down as the flames went higher And it burns, burns, burns, The ring of fire, the ring of fire.  And it burns, burns, burns, The ring of fire, the ring of fire, The ring of fire, the ring of fire. ",
+        "song": "Ring Of Fire"
+    },
+    {
+	"genre": "country",
+        "artist": "Dixie Chicks",
+        "sentiment": 0.9461,
+        "lyrics": " Mary Anne and Wanda were the best of friends All through their high school days Both members of the 4H Club Both active in the FFA  After graduation Mary Anne went out lookin' for a bright new world Wanda looked all around this town and all she found was Earl  Well, it wasn't two weeks after she got married that Wanda started gettin' abused She put on dark glasses and long sleeved blouses And make-up to cover her bruise  Well, she finally got the nerve to file for divorce She let the law take it from there But Earl walked right through that restraining order And put her in intensive care  Right away Mary Anne flew in from Atlanta On a red eye midnight flight She held Wanda's hand and they worked out a plan And it didn't take them long to decide That Earl had to die  Goodbye, Earl Those black-eyed peas? They tasted all right to me, Earl You're feeling weak? Why don't you lay down and sleep, Earl Ain't it dark? Wrapped up in that tarp, Earl  The cops came by to bring Earl in They searched the house high and low Then they tipped their hats and said &quot;Thank You, ladies, if you hear from him let us know&quot;  Well, the weeks went by and spring turned to summer And summer faded into fall And it turns out he was a missing person who nobody missed at all  So the girls bought some land and a roadside stand Out on Highway 109 They sell Tennessee ham and strawberry jam, And they don't lose any sleep at night 'Cause Earl had to die  Goodbye Earl We need a break Let's go out to the lake, Earl We'll pack a lunch And stuff you in the trunk, Earl Well, is that all right? Good! Let's go for a ride, Earl. Hey  Well, hey hey hey Ah, hey hey hey Well, hey hey hey ",
+        "song": "Goodbye Earl"
+    },
+    {
+	"genre": "country",
+        "artist": "Loretta Lynn",
+        "sentiment": 0.6426,
+        "lyrics": " Well you thought I'd be waitin' up when you came home last night You'd been out with all the boys and you ended up half tight But liquor and love that just don't mix leave a bottle or me behind And don't come home a drinkin' with lovin' on your mind No don't come home a drinkin' with lovin' on your mind Just stay out there on the town and see what you can find Cause if you want that kind of love well you don't need none of mine So don't come home a drinkin' with lovin' on your mind <i>[ steel - guitar ]</i> You never take me anywhere because you're always gone Many a night I've laid awake and cried dear all alone And you come in a kissin' on me it happens every time No don't come home a drinkin' with lovin' on your mind No don't come home a drinkin'... No don't come home a drinkin' with lovin' on your mind ",
+        "song": "Don't Come Home A Drinkin' (With Lovin' On Your Mind)"
+    },
+    {
+	"genre": "country",
+        "artist": "George Strait",
+        "sentiment": 0.8957,
+        "lyrics": " <i>[Chorus:]</i> All my ex's live in Texas, And Texas is a place I'd dearly love to be. But all my ex's live in Texas And that's why I hang my hat in Tennessee.  Rosanna's down in Texarcana; wanted me to push her broom, And sweet Ilene's in Abilene; she forgot I hung the moon, And Allison in Galveston somehow lost her sanity, And Dimples who now lives in Temple's got the law lookin' for me.  <i>[Chorus]</i>  I remember that old Frio river where I learned to swim. And it brings to mind another time where I wore my welcome thin. My transcendental meditation, I go there each night, But I always come back to myself long before daylight.  <i>[Chorus]</i>  Some folks think I'm hidin', It's been rumored that I died, But I'm alive and well in Tennessee. ",
+        "song": "All My Ex's Live In Texas",
+        "category": "relationships"
+    },
+    {
+	"genre": "country",
+        "artist": "Glen Campbell",
+        "sentiment": 0.0013,
+        "lyrics": " I am a lineman for the county and I drive the main road Searchin' in the sun for another overload I hear you singin' in the wire, I can hear you through the whine And the Wichita Lineman is still on the line  I know I need a small vacation but it don't look like rain And if it snows that stretch down south won't ever stand the strain And I need you more than want you, and I want you for all time And the Wichita Lineman is still on the line  <i>[Instrumental Interlude]</i>  And I need you more than want you, and I want you for all time And the Wichita Lineman is still on the line  <i>[Instrumental to end]</i> ",
+        "song": "Wichita Lineman"
+    },
+    {
+	"genre": "country",
+        "artist": "Hank Williams",
+        "sentiment": -0.948,
+        "lyrics": " You sing loud and I'll sing louder tonight we're settin' the woods on fire You're my gal and I'm your feller dress up in your frock of yeller I'll look swell but you'll look sweller settin' the woods on fire We'll take in all the honky tonks tonight we're havin' fun We'll show the folks a brand new dance that never has been done I don't care who thinks we're silly you'll be daffy and I'll be dilly We'll order up two bowls of chili settin' the woods on fire <i>[ steel - fiddle ]</i> I'll gas up my hot rod stoker we'll get hotter than a poker You'll be broke but I'll be broker tonight we're settin' the woods on fire We'll sit close to one another up one street and down the other We'll have us a time oh brother settin' the woods on fire We'll put aside a little time to fix a flat or two My tires and tubes are doin' fine but the air is showin' through You clap hands and I'll start bowin' we'll do all the laws allowin' Tomorrow I'll be right back plowin' settin' the woods on fire ",
+        "song": "Settin' The Woods On Fire"
+    },
+    {
+	"genre": "country",
+        "artist": "Buck Owens",
+        "sentiment": 0.9788,
+        "lyrics": " I've got a tiger by the tail, it's plain to see I won't be much when you get through with me Well I'm a-losing weight and I'm turning mighty pale Looks like I've got a tiger by the tail  Well I thought the day I met you, you were meek as a lamb Just the kind to fit my dreams and plans Now, the pace we're livin' takes the wind from my sails And it looks like I've got a tiger by the tail I've got a tiger by the tail  I've got a tiger by the tail, it's plain to see I won't be much when you get through with me Well I'm a-losing weight and I'm turning mighty pale Looks like I've got a tiger by the tail  Well, every night you drag me where the bright lights're found There ain't no way to slow you down I'm about as helpless as a leaf in a gale And it looks like I've got a tiger by the tail I've got a tiger by the tail  I've got a tiger by the tail, it's plain to see I won't be much when you get through with me Well I'm a-losing weight and I'm turning mighty pale Looks like I've got a tiger by the tail ",
+        "song": "I've Got a Tiger By the Tail"
+    },
+    {
+	"genre": "country",
+        "artist": "Waylon Jennings",
+        "sentiment": -0.4713,
+        "lyrics": " Cowboys ain't easy to love and they're harder to hold. They'd rather give you a song than diamonds or gold. Lonestar belt buckles and old faded levis,  And each night begins a new day. If you don't understand him, an' he don't die young, He'll prob'ly just ride away.  Mamas, don't let your babies grow up to be cowboys. Don't let 'em pick guitars or drive them old trucks. Let 'em be doctors and lawyers and such. Mamas don't let your babies grow up to be cowboys. 'Cos they'll never stay home and they're always alone. Even with someone they love.  Cowboys like smokey old pool rooms and clear mountain mornings, Little warm puppies and children and girls of the night. Them that don't know him won't like him and them that do, Sometimes won't know how to take him. He ain't wrong, he's just different but his pride won't let him, Do things to make you think he's right.  Mamas, don't let your babies grow up to be cowboys. Don't let 'em pick guitars or drive them old trucks. Let 'em be doctors and lawyers and such. Mamas don't let your babies grow up to be cowboys. 'Cos they'll never stay home and they're always alone. Even with someone they love. ",
+        "song": "Mammas Don't Let Your Babies Grow Up To Be Cowboys"
+    },
+    {
+	"genre": "country",
+        "artist": "Dolly Parton",
+        "sentiment": 0.972,
+        "lyrics": " Jolene, Jolene, Jolene, Jolene I'm begging of you please don't take my man Jolene, Jolene, Jolene, Jolene Please don't take him just because you can  Your beauty is beyond compare With flaming locks of auburn hair With ivory skin and eyes of emerald green  Your smile is like a breath of spring Your voice is soft like summer rain And I cannot compete with you, Jolene  He talks about you in his sleep There's nothing I can do to keep From crying when he calls your name, Jolene  And I can easily understand How you could easily take my man But you don't know what he means to me, Jolene  Jolene, Jolene, Jolene, Jolene I'm begging of you please don't take my man Jolene, Jolene, Jolene, Jolene Please don't take him just because you can  You could have your choice of men But I could never love again He's the only one for me, Jolene  I had to have this talk with you My happiness depends on you And whatever you decide to do, Jolene  Jolene, Jolene, Jolene, Jolene I'm begging of you please don't take my man Jolene, Jolene, Jolene, Jolene Please don't take him even though you can  Jolene, Jolene ",
+        "song": "Jolene",
+        "category": "relationships"
+    },
+    {
+	"genre": "country",
+        "artist": "Merle Haggard",
+        "sentiment": -0.9192,
+        "lyrics": " The first thing I remember knowing Was a lonesome whistle blowing And a young'un's dream of growing up to ride On a freight train leaving town Not knowing where I'm bound And no one could change my mind but Mama tried  One and only rebel child From a family meek and mild My mama seemed to know what lay in store Despite all my Sunday learning Towards the bad I kept on turning Till Mama couldn't hold me anymore  And I turned twenty-one in prison doing life without parole No one could steer me right but Mama tried, Mama tried Mama tried to raise me better, but her pleading I denied That leaves only me to blame 'cause Mama tried  Dear old Daddy, rest his soul Left my mom a heavy load She tried so very hard to fill his shoes Working hours without rest Wanted me to have the best She tried to raise me right but I refused  And I turned twenty-one in prison doing life without parole No one could steer me right but Mama tried, Mama tried Mama tried to raise me better, but her pleading I denied That leaves only me to blame 'cause Mama tried ",
+        "song": "Mama Tried",
+        "category": "family"
+    },
+    {
+	"genre": "country",
+        "artist": "Ray Charles",
+        "sentiment": 0.9967,
+        "lyrics": " You give your hand to me And then you say, &quot;Hello.&quot; And I can hardly speak, My heart is beating so. And anyone can tell You think you know me well. Well, you don't know me. (no you don't know me) No you don't know the one Who dreams of you at night; And longs to kiss your lips And longs to hold you tight Oh I'm just a friend. That's all I've ever been. Cause you don't know me. (no you don't know me) For I never knew the art of making love, Though my heart aches with love for you. Afraid and shy, I let my chance go by. A chance that you might love me too. (love me too) You give your hand to me, And then you say, &quot;Goodbye.&quot; I watched you walk away, Beside the lucky guy Oh, you'll never ever know The one who loved you so. Well, you don't know me (For I never knew the art of making love, ) (Though my heart aches with love for you. ) Afraid and shy, I let my chance go by. A chance that you might love me too. (love me too) Oh, you give your hand to me, And then you say, &quot;Goodbye.&quot; I watched you walk away, Beside the lucky guy Oh, you'll never ever know The one who loved you so. Well, you don't know me (you don't love me, you don't know me) ",
+        "song": "You Don't Know Me"
+    },
+    {
+	"genre": "country",
+        "artist": "Tammy Wynette",
+        "sentiment": 0.9904,
+        "lyrics": " Sometimes it's hard to be a woman Giving all your love to just one man You'll have bad times, and he'll have good times Doin' things that you don't understand But if you love him, you'll forgive him Even though he's hard to understand And if you love him, oh be proud of him 'Cause after all he's just a man. Stand by your man, give him two arms to cling to And something warm to come to When nights are cold and lonely. Stand by your man, and show the world you love him Keep giving all the love you can. Stand by your man. Stand by your man, and show the world you love him Keep giving all the love you can. Stand by your man. ",
+        "song": "Stand By Your Man"
+    },
+    {
+	"genre": "country",
+        "artist": "George Jones",
+        "sentiment": 0.9854,
+        "lyrics": " He said I'll love you 'til I die She told him you'll forget in time As the years went slowly by She still preyed upon his mind.  He kept her picture on his wall Went half crazy now and then He still loved her through it all Hoping she'd come back again.  He kept some letters by his bed Dated 1962  He had underlined in red Every single I love you.  I went to see him just today Oh, but I didn't see no tears All dressed up to go away First time I'd seen him smile in years.  He stopped loving her today They placed a wreath upon his door And soon they'll carry him away He stopped loving her today.  <i>[Spoken:]</i> Ya' know she came to see him one last time Oh, we all wondered if she would And it kept running through my mind This time he's over her for good.  <i>[Sang:]</i> He stopped loving her today They placed a wreath upon his door And soon they'll carry him away He stopped loving her today... ",
+        "song": "He Stopped Loving Her Today",
+        "category": "drugs"
+    },
+    {
+	"genre": "country",
+        "artist": "Hank Williams",
+        "sentiment": -0.9874,
+        "lyrics": " Hear that lonesome whippoorwill He sounds too blue to fly The midnight train is whining low I'm so lonesome I could cry  I've never seen a night so long When time goes crawling by The moon just went behind the clouds To hide its face and cry  Did you ever see a robin weep When leaves begin to die? Like me, he's lost the will to live I'm so lonesome I could cry  The silence of a falling star Lights up a purple sky And as I wonder where you are I'm so lonesome I could cry ",
+        "song": "I'm So Lonesome I Could Cry"
+    },
+    {
+	"genre": "country",
+        "artist": "Patsy Cline",
+        "sentiment": -0.9451,
+        "lyrics": " Crazy I'm crazy for feeling so lonely I'm crazy Crazy for feeling so blue I knew you'd love me as long as you wanted And then some day You'd leave me for somebody new  Worry Why do I let myself worry? Wondering What in the world did I do?  Oh, crazy For thinking that my love could hold you I'm crazy for trying And crazy for crying And I'm crazy for loving you  Crazy for thinking that my love could hold you I'm crazy for trying And crazy for crying And I'm crazy for loving  You ",
+        "song": "Crazy"
+    }
+]

@@ -1,3 +1,17 @@
+// read in the files into a list or something or another
+// 'songscrape/jsonfiles/countrysongs.txt.json.sentiment.json',
+var songs = [];
+$.getJSON( './jsonfiles/countrysongs.txt.json.sentiment.json', function( data ) {
+  songs = songs.concat(data);
+  console.log(data);
+});
+$.getJSON( './jsonfiles/rapsongs.txt.json.sentiment.json', function( data ) {
+  songs = songs.concat(data);
+  console.log(data);
+});
+
+
+
 var margin = {top: 20, right: 30, bottom: 40, left: 30},
     width = 960 - margin.left - margin.right,
     height = 500 - margin.top - margin.bottom;
@@ -40,7 +54,7 @@ d3.csv("data.csv", type, function(error, data) {
   svg.selectAll(".bar")
       .data(data)
     .enter().append("rect")
-      .attr("class", function(d) { return "bar bar--" + (d.value < 0 ? "negative" : "positive"); })
+      .attr("class", function(d) { return "bar bar--" + (d.genre == 'country' ? "country" : "rap"); })
       .attr("x", function(d) { return x(Math.min(0, d.value)); })
       .attr("y", function(d) { return y(d.name); })
       .attr("width", function(d) { return Math.abs(x(d.value) - x(0)); })
